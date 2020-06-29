@@ -1,5 +1,5 @@
-##Installation 
-# PoC Dashboards for EAS : 
+#Installation 
+## PoC Dashboards for EAS : 
 
 1) The implementation is far from polished, but it works. Treat it as a PoC level of development - I'd welcome any improvement contributions.
 2) Requires connector found elsewhere in this repo.
@@ -10,14 +10,13 @@
 
 1) If PowerBI states incorrect credentials, double check both the credentials and the RepositoryID - as either may generate this error.
 
-
 # Using the PowerBI Dashboards
 
 1) PowerBI doesn't allow for ambiguous data relationships, which the Essential ontology does allow for
 	Essential view's actually dont encounter this issues as each report (or 'view') creates and resolves the data relationship path at the point of developing the view in XSLT.
-	What this means is that PowerBI will disable paths that would otherwise create loops.
-		For instance
-			The Site class cannot be linked to both the Application_Provider class and Physical_Process Class simultaneously if there's a loop further in the data model' 
+	
+2) What this means is that PowerBI will disable paths that would otherwise create loops. For instance
+	* The Site class cannot be linked to both the Application_Provider class and Physical_Process Class simultaneously if there's a loop further in the data model' 
 				(PowerBI wouldn't know whether, when using site you wanted the site of Application_Provider or Physical_Process')
 	There's a few approaches that can resolve this'
 	* For Simple Dashboards it's relatively easy to fix, disable the paths you don't want and enable the path you do
