@@ -18,7 +18,7 @@
 2) What this means is that PowerBI will disable paths that would otherwise create loops. For instance
 	* The Site class cannot be linked to both the Application_Provider class and Physical_Process Class simultaneously if there's a loop further in the data model' 
 				(PowerBI wouldn't know whether, when using site you wanted the site of Application_Provider or Physical_Process')
-	There's a few approaches that can resolve this'
+3)  There's a few approaches that can resolve this'
 	* For Simple Dashboards it's relatively easy to fix, disable the paths you don't want and enable the path you do
 	* Also futher data manipulation (e.g. merging of tables using, for instance, Left.Joins) to resolve ambiguity and leave data pathways without loops
 
