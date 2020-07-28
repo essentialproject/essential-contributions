@@ -38,35 +38,31 @@ The implementation is far from polished, but it works. Treat it as a PoC level o
 ![Alt Text](README_content/EA_1.2.png?raw=true)
 
 
-2) Cost dashboard with on page filters
+### Cost dashboard with on page filters
 
 ![Alt Text](README_content/EA_4.png?raw=true)
 
 
-3) App to Site dashboard with App Function (service) to Site Matrix
+### App to Site dashboard with App Function (service) to Site Matrix
 
 ![Alt Text](README_content/EA_5.png?raw=true)
 
 
-4) Calander based mockup
+### Calander based mockup
 
 ![Alt Text](README_content/EA_6.png?raw=true)
 
 
-5) GIS based view
+### GIS based view
 
 ![Alt Text](README_content/EA_7.png?raw=true)
 
 
-6) Technical Debt Radar chart views (two styles)
+### Technical Debt Radar chart views (two styles)
 
 ![Alt Text](README_content/EA_8.png?raw=true)
 
 
-7) Visio diagram integration PoC
+### Visio diagram integration PoC
 
 ![Alt Text](README_content/EA_9.png?raw=true)
-
-
-
-
