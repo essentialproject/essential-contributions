@@ -25,10 +25,8 @@ The implementation is far from polished, but it works. Treat it as a PoC level o
 
 	
 ## Examples 
-
-![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
-
-![Alt Text](https://github.com/{user}/{repo}/raw/connectors/PowerBI/PowerBI%20Templates/README_content/EA_PowerBI1.gif)
+.
+![Alt Text](https://github.com/{user}/{repo}/raw/Closch-PowerBI-readmeUpdate/connectors/PowerBI/PowerBI%20Templates/README_content/EA_PowerBI1.gif)
 ![Alt Text](https://raw.githubusercontent.com/C-Losch/essential-contributions/Closch-PowerBI-readmeUpdate/connectors/PowerBI/PowerBI%20Templates/README_content/EA_PowerBI1.gif)
 
 
