@@ -30,3 +30,7 @@ The implementation is far from polished, but it works. Treat it as a PoC level o
 ![Alt Text](https://raw.githubusercontent.com/C-Losch/essential-contributions/Closch-PowerBI-readmeUpdate/connectors/PowerBI/PowerBI%20Templates/README_content/EA_PowerBI1.gif)
 ![Alt Text](../README_content/EA_PowerBI1.gif?raw=true)
 ![Alt Text](../README_content/EA_PowerBI1.gif)
+![Alt Text](./README_content/EA_PowerBI1.gif?raw=true)
+![Alt Text](./README_content/EA_PowerBI1.gif)
+![Alt Text](README_content/EA_PowerBI1.gif?raw=true)
+![Alt Text](README_content/EA_PowerBI1.gif)
