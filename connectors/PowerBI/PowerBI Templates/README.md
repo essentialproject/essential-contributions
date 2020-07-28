@@ -24,8 +24,47 @@ The implementation is far from polished, but it works. Treat it as a PoC level o
 	* Also futher data manipulation (e.g. merging of tables using, for instance, Left.Joins) to resolve ambiguity and leave data pathways without loops
 
 	
+# Examples 
 
+## Quickly build and filter reports
+![Alt Text](README_content/EA_PowerBI1.gif?raw=true)
 
+## Other example views (redacted due to sensitive data)
 
+###  Q&A 
 
+![Alt Text](README_content/EA_1.png?raw=true)
+![Alt Text](README_content/EA_1.1.png?raw=true)
+![Alt Text](README_content/EA_1.2.png?raw=true)
 
+___
+### Cost dashboard with on page filters
+
+![Alt Text](README_content/EA_4.png?raw=true)
+
+___
+### App to Site dashboard with App Function (service) to Site Matrix
+
+![Alt Text](README_content/EA_5.png?raw=true)
+
+___
+### Calander based mockup
+
+![Alt Text](README_content/EA_6.png?raw=true)
+
+___
+### GIS based view
+
+![Alt Text](README_content/EA_7.png?raw=true)
+
+___
+### Technical Debt Radar chart views (two styles)
+
+![Alt Text](README_content/EA_8.png?raw=true)
+
+___
+### Visio diagram integration PoC
+
+![Alt Text](README_content/EA_9.png?raw=true)
+
+___
