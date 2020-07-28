@@ -31,7 +31,7 @@ The implementation is far from polished, but it works. Treat it as a PoC level o
 
 ## Other example views (redacted due to sensitive data)
 
-1) Q&A 
+###  Q&A 
 
 ![Alt Text](README_content/EA_1.png?raw=true)
 ![Alt Text](README_content/EA_1.1.png?raw=true)
