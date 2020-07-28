@@ -27,5 +27,6 @@ The implementation is far from polished, but it works. Treat it as a PoC level o
 ## Examples 
 
 ![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
+![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
 
 
