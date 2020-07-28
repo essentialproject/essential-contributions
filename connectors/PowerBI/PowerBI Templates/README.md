@@ -26,11 +26,35 @@ The implementation is far from polished, but it works. Treat it as a PoC level o
 	
 ## Examples 
 
-![Alt Text](https://github.com/{user}/{repo}/raw/Closch-PowerBI-readmeUpdate/connectors/PowerBI/PowerBI%20Templates/README_content/EA_PowerBI1.gif)
-![Alt Text](https://raw.githubusercontent.com/C-Losch/essential-contributions/Closch-PowerBI-readmeUpdate/connectors/PowerBI/PowerBI%20Templates/README_content/EA_PowerBI1.gif)
-![Alt Text](../README_content/EA_PowerBI1.gif?raw=true)
-![Alt Text](../README_content/EA_PowerBI1.gif)
-![Alt Text](./README_content/EA_PowerBI1.gif?raw=true)
-![Alt Text](./README_content/EA_PowerBI1.gif)
+# Quickly build and filter reports
 ![Alt Text](README_content/EA_PowerBI1.gif?raw=true)
-![Alt Text](README_content/EA_PowerBI1.gif)
+
+# Other example views (redacted due to sensitive data)
+
+1) Q&A 
+![Alt Text](README_content/EA_1.png?raw=true)
+![Alt Text](README_content/EA_1.1.png?raw=true)
+![Alt Text](README_content/EA_1.2.png?raw=true)
+
+2) Cost dashboard with on page filters
+![Alt Text](README_content/EA_4.png?raw=true)
+
+
+3) App to Site dashboard with App Function (service) to Site Matrix
+![Alt Text](README_content/EA_5.png?raw=true)
+
+4) Calander based mockup
+![Alt Text](README_content/EA_6.png?raw=true)
+
+5)GIS based view
+![Alt Text](README_content/EA_7.png?raw=true)
+
+6)Technical Debt Radar chart views (two styles)
+![Alt Text](README_content/EA_8.png?raw=true)
+
+7)Visio diagram integration PoC
+![Alt Text](README_content/EA_9.png?raw=true)
+
+
+
+
