@@ -24,8 +24,8 @@ The implementation is far from polished, but it works. Treat it as a PoC level o
 	* Also futher data manipulation (e.g. merging of tables using, for instance, Left.Joins) to resolve ambiguity and leave data pathways without loops
 
 	
+## Examples 
 
-
-
+![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
 
 
