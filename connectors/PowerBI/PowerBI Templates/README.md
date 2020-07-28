@@ -24,12 +24,12 @@ The implementation is far from polished, but it works. Treat it as a PoC level o
 	* Also futher data manipulation (e.g. merging of tables using, for instance, Left.Joins) to resolve ambiguity and leave data pathways without loops
 
 	
-## Examples 
+# Examples 
 
-# Quickly build and filter reports
+## Quickly build and filter reports
 ![Alt Text](README_content/EA_PowerBI1.gif?raw=true)
 
-# Other example views (redacted due to sensitive data)
+## Other example views (redacted due to sensitive data)
 
 1) Q&A 
 ![Alt Text](README_content/EA_1.png?raw=true)
